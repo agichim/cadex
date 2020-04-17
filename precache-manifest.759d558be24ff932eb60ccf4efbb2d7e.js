@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "065d3f80cacac8041f2df16a1ade7b8e",
+    "revision": "be27539dbff59fe58c88a759e0df9751",
     "url": "/cadex/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cadex/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "e3dba6d88f0ba6ee1b74",
+    "revision": "1dfe8105339b8e70c99a",
     "url": "/cadex/static/css/main.e046ef0f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cadex/static/js/2.05536e29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3dba6d88f0ba6ee1b74",
-    "url": "/cadex/static/js/main.d9bb6ac3.chunk.js"
+    "revision": "1dfe8105339b8e70c99a",
+    "url": "/cadex/static/js/main.a05db128.chunk.js"
   },
   {
     "revision": "b8213ecc1e111cffd9fe",
