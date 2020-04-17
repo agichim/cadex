@@ -45,7 +45,7 @@ const Redactar = (props) => {
                     value={textAreaValue}
                 ></textarea>
                 {pocosCaracteres && (
-                    <div className="invalid-feedback">Mínimo, 50 caracteres. Dale que vos tenés talento.</div>
+                    <div className="invalid-feedback">Mínimo 50 caracteres. Dale que vos tenés talento.</div>
                 )}
                 {escribir && (
                     <button
