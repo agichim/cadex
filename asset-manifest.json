@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cadex/static/css/main.e046ef0f.chunk.css",
-    "main.js": "/cadex/static/js/main.5192ac0f.chunk.js",
-    "main.js.map": "/cadex/static/js/main.5192ac0f.chunk.js.map",
+    "main.js": "/cadex/static/js/main.d9bb6ac3.chunk.js",
+    "main.js.map": "/cadex/static/js/main.d9bb6ac3.chunk.js.map",
     "runtime-main.js": "/cadex/static/js/runtime-main.3656d1d4.js",
     "runtime-main.js.map": "/cadex/static/js/runtime-main.3656d1d4.js.map",
     "static/css/2.69121389.chunk.css": "/cadex/static/css/2.69121389.chunk.css",
     "static/js/2.05536e29.chunk.js": "/cadex/static/js/2.05536e29.chunk.js",
     "static/js/2.05536e29.chunk.js.map": "/cadex/static/js/2.05536e29.chunk.js.map",
     "index.html": "/cadex/index.html",
-    "precache-manifest.96b90ff0f1b2f5db323204e86d0c9819.js": "/cadex/precache-manifest.96b90ff0f1b2f5db323204e86d0c9819.js",
+    "precache-manifest.1619243259cbae370c46f9a0b04a84ec.js": "/cadex/precache-manifest.1619243259cbae370c46f9a0b04a84ec.js",
     "service-worker.js": "/cadex/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/cadex/static/css/2.69121389.chunk.css.map",
     "static/css/main.e046ef0f.chunk.css.map": "/cadex/static/css/main.e046ef0f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.05536e29.chunk.js",
     "static/css/main.e046ef0f.chunk.css",
-    "static/js/main.5192ac0f.chunk.js"
+    "static/js/main.d9bb6ac3.chunk.js"
   ]
 }
