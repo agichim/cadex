@@ -1,38 +1,94 @@
-.App {
+body {
   text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+#app {
+  background-color: #eee9dd;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-right: 0;
+  padding-left: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#navbar-0 {
+  background-color: #c26e00;
+  height: 1.2rem;
+  border-bottom: 1px solid #f3b42b;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.navbar {
+  background-color: #f0a500;
+  color: #000000;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #d39000;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar-text {
+  padding-bottom: .35rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#navbar-titulo {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-left: 1.5rem;
+}
+
+#capitulo {
+  background-color: #fcfbfb;
+  text-align: left;
+  padding: 1rem 2rem;
+  margin-top: 1.5px;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  border-bottom: 0.5px solid #c9c9c9;
+  border-right: 0.5px solid #c9c9c9;
+  border-top: 0.5px solid #dfdfdf;
+  border-left: 0.5px solid #dfdfdf;
+}
+
+#capitulo h6 {
+  color: #e2e2e2;
+}
+
+#redactar {
+  text-align: left;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  margin-top: 3rem;
+}
+
+#redactar textarea {
+  background-color: #fafcfd;
+}
+
+#btn-redactar {
+  color: #fff8bd;
+  margin-bottom: 0.8rem;
+}
+
+#btn-publicar {
+  margin-top: 0.8rem;
+  float: right;
+  background-color: #f0a500;
+  border-color: #f0a500;
+}
+
+#btn-publicar:hover {
+  background-color: #f1b228;
+  border-color: #f1b228;
+}
+
+#footer p {
+  margin-bottom: 0;
+  color: #c5c5c5;
+  font-style: italic;
+}
+
+#footer {
+  margin-top: 14%;
+  padding-bottom: 10px;
 }
